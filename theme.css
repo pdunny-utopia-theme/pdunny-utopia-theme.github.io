@@ -13,7 +13,13 @@ FOLLOW THIS FORMAT:
 }
 */
 
+div#munkbot_options {
+    visibility: hidden;
+}
 
+.navigation:nth-child(7) div:nth-child(4) {
+    visibility: hidden;
+}
 
 .advice-message {
     color: red;
