@@ -1,10 +1,7 @@
 
 /*
 FOLLOW THIS FORMAT:
-@font-face {
-  font-family: myFirstFont;
-  src: url(fonts/Blood Thirst.ttf);
-}
+
 .my-first-selector,
 .my-second-selector {
     - positioning and size
@@ -19,7 +16,10 @@ FOLLOW THIS FORMAT:
 
 
 
-
+@font-face {
+  font-family: myFirstFont;
+  src: url(fonts/Blood Thirst.ttf);
+}
 
 body {
     color: #FFFFFE;
