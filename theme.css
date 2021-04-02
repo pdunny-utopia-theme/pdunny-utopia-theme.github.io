@@ -16,16 +16,11 @@ FOLLOW THIS FORMAT:
 
 
 
-@font-face {
-  font-family: BloodThirst;
-  src: url(https://pdunny-utopia-theme.github.io/fonts/Blood Thirst.ttf);
-  src: url(https://pdunny-utopia-theme.github.io/fonts/BloodThirst.woff);
-  src: url(https://pdunny-utopia-theme.github.io/fonts/BloodThirst.woff2);
-}
+
 
 body {
     color: #FFFFFE;
-    font-family: 'BloodThirst';
+    font-family: 'Papyrus';
     background-color: black;
 }
 
