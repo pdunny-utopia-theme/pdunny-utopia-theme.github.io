@@ -17,8 +17,8 @@ FOLLOW THIS FORMAT:
 
 
 @font-face {
-  font-family: myFirstFont;
-  src: url(fonts/Blood Thirst.ttf);
+  font-family: BloodThirst;
+  src: url(https://pdunny-utopia-theme.github.io/fonts/Blood Thirst.ttf);
 }
 
 body {
