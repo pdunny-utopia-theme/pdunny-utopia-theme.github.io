@@ -30,7 +30,9 @@ body {
     height: 50px;
     position: absolute;
 }
-
+#throne-monarch-message {
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
 .navigation {
 
     /* border styling */
