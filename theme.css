@@ -16,17 +16,31 @@ FOLLOW THIS FORMAT:
 
 
 
-
+#inner-container {
+    display: block;
+    position: relative;
+    width: auto;
+    min-height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
 
 body {
     color: #FFFFFE;
     font-family: 'Papyrus';
     background-color: black;
 }
+#header {
+}
+
+#left-column {
+    float: left;
+}
 
 #header-logo {
     background: url(./images/logo_header.png) no-repeat top left;
-    width: 183px;
+    width: 250px;
     height: 50px;
     position: absolute;
 }
