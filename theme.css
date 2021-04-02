@@ -19,7 +19,7 @@ FOLLOW THIS FORMAT:
 #inner-container {
     display: block;
     position: relative;
-    width: auto;
+    width: min-content;
     min-height: 100%;
     margin-left: auto;
     margin-right: auto;
