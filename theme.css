@@ -1103,3 +1103,7 @@ body.wysiwyg {
     font-size: 14px;
 }
 
+.two-column-stats th {
+   margin-left: 0px;
+    font-family: 'Papyrus';
+}
