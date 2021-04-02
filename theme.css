@@ -550,7 +550,10 @@ h3 {
 
 .game-content h2 {
     /* colors */
-    background-color: #000040;
+    background-color: darkblue;
+    color: lightslategray;
+    text-transform: capitalize;
+    font-weight: bold;
 }
 
 .game-content h3 {
