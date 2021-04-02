@@ -15,7 +15,11 @@ FOLLOW THIS FORMAT:
 
 
 
-
+.advice-message {
+    color: red;
+    /* font-weight: bold; */
+    font-style: italic;
+}
 #inner-container {
     display: block;
     position: relative;
@@ -448,9 +452,6 @@ h3 {
     line-height: 16px;
 }
 
-.advice-message {
-    color: #F93;
-}
 
 .warning {
     color: #e55700;
