@@ -12,7 +12,7 @@ FOLLOW THIS FORMAT:
     - display, opacity and special effects
 }
 */
-
+/*
 div#munkbot_options {
     visibility: hidden;
 }
@@ -20,7 +20,7 @@ div#munkbot_options {
 .navigation:nth-child(7) div:nth-child(4) {
     visibility: hidden;
 }
-
+*/
 .advice-message {
     color: red;
     /* font-weight: bold; */
