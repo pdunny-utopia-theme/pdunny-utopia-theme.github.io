@@ -22,7 +22,7 @@ div#munkbot_options {
 }
 */
 .advice-message {
-    color: red;
+    color: #52f584;
     /* font-weight: bold; */
     font-style: italic;
 }
@@ -549,16 +549,9 @@ h3 {
 
 .game-content form,
 .game-content h2 {
-    /* internal styling - padding etc. */
-
-    /* colors */
-    color: #fff;
-}
-
-.game-content h2 {
     /* colors */
     background-color: darkblue;
-    color: lightslategray;
+    color: darkcyan;
     text-transform: capitalize;
     font-weight: bold;
 }
